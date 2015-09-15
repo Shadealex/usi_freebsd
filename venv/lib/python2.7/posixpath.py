@@ -1,1 +1,1 @@
-/usr/local/lib/python2.7/posixpath.py
+/usr/lib/python2.7/posixpath.py
