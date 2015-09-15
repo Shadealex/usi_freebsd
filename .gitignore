@@ -1,4 +1,4 @@
 venv/
 test_site/proba/migration/
-test_site/setting.py
+test_site/test_site/setting.py
 *.pyc
